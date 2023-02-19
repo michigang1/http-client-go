@@ -7,4 +7,5 @@ func main() {
 		log.Panicf("Failed to run application: %v", err)
 	}
 	log.Print("log from imlewel")
+	log.Print("log from imlewel 2")
 }
