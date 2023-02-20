@@ -23,6 +23,7 @@ Make get request to `localhost:8795/time` to get current time.
 ## Contributors:
 
 - Mykhailo Chirozidi
+
 - Ivan Lotokhin
 
 - Lev Pavelko
